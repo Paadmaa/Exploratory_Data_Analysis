@@ -133,9 +133,8 @@ This project is open-source and licensed under the [MIT License](https://opensou
 ---
 
 ## Contact
-For any queries, feel free to reach out at:
-- **YouTube**: [@Zero_Analyst](https://www.youtube.com/@Zero_Analyst)  
-- **GitHub**: [Your GitHub](https://github.com/your-repo)  
-- **LinkedIn**: [Your LinkedIn](https://linkedin.com/in/your-profile)  
+For any queries, feel free to reach out at: 
+- **GitHub**: [Your GitHub](https://github.com/Paadmaa) 
+- **LinkedIn**: [Your LinkedIn](https://www.linkedin.com/in/padmach-behera/) 
 
 ---
