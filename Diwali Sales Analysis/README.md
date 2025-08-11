@@ -64,7 +64,7 @@ The primary goal is to analyze customer purchasing patterns, identify top-perfor
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/diwali-sales-analysis.git
+   git clone https://github.com/Paadmaa/diwali-sales-analysis.git
    ```
 
 2. Navigate to the project directory:
