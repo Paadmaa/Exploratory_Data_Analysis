@@ -1,5 +1,7 @@
 # 💼 Thera Bank Personal Loan Campaign – EDA Project
 
+![Thumbnail](https://github.com/Paadmaa/Exploratory_Data_Analysis/blob/master/Bank%20Personal%20Loan%20Modelling/business-loan-273540282-16x9_0.avif)
+
 ## 📌 Project Overview
 This project performs **Exploratory Data Analysis (EDA)** on customer data from **Thera Bank**, aiming to uncover patterns that influence personal loan acceptance. Using Python and essential data analysis libraries, we analyze customer demographics, banking relationships, and campaign responses to help the bank improve future marketing strategies.
 
