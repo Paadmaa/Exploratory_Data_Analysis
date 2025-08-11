@@ -1,6 +1,6 @@
 # 🏙️ Airbnb Listings EDA – New York City 2024
 
-![NYC Skyline](https://github.com/najirh/Python-Project-P2-New-York-AirBnb-Listing-2024/blob/main/New-York-City-Brooklyn-Bridge-Panorama-Juergen-Roth-2.jpg)
+![NYC Skyline](https://github.com/Paadmaa/Exploratory_Data_Analysis/blob/master/Airbnb%20(2024)%20-%20EDA/thumbnail.jpeg)
 
 ## 📌 Overview
 This project dives into **Exploratory Data Analysis (EDA)** of Airbnb listings in New York City using Python libraries like **Pandas**, **NumPy**, **Matplotlib**, and **Seaborn**. The goal is to uncover patterns in pricing, availability, and host behavior to help both guests and hosts make smarter decisions.
